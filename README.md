@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramiromejias
 - 👀 I’m interested in Full-Stack Web Technologies.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript and Blockchain.
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 How to reach me? ramiro.mejias@gmail.com
 
